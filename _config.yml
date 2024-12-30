@@ -120,6 +120,8 @@ content:
             - Swagger (OAS 3), Postman을 이용한 API 문서화
 
   - title: Skills # Title for the section
+    quote: >
+      현재 업무에 사용 중이거나, 사용했던 기술입니다.  
     layout: list # Type of content section (list/text)
     content:
       - layout: left
