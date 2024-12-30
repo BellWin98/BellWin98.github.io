@@ -87,9 +87,7 @@ content:
         link: https://github.com/BellWin98/BE-Pinup
         sub_title: 백엔드 리드
         caption: 2024.09 ~ 현재
-        description: |
-          [Swagger API 문서](https://api.kwonyonghyun.p-e.kr/swagger-ui/index.html)
-
+        description: |        
           - **인원**: 9명 (기획 2, 마케팅 1, 디자인 1, FE 3, BE 2)  
           - **역할 및 성과**  
             - 서비스 아키텍처 및 도메인 설계 주도  
@@ -101,7 +99,8 @@ content:
             - AWS EC2, RDS, S3, ELB로 서버 구축 및 HTTPS 적용  
             - 전역 에러 핸들링 구축
             - Spring AOP 활용한 Controller, Service단 로깅 적용 
-            - Swagger 3, Postman 활용한 API 문서화  
+            - Swagger 3, Postman 활용한 API 문서화
+          - API문서: [Swagger](https://api.kwonyonghyun.p-e.kr/swagger-ui/index.html)
             
   - title: Skills
     layout: list
