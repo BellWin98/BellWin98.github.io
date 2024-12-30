@@ -12,7 +12,7 @@ email: bellwin98@gmail.com
 website: www.github.com/BellWin98
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -46,7 +46,7 @@ github_username:  BellWin98
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profilePic.jpeg
 about_content: | # this will include new lines to allow paragraphs
    소프트웨어 개발 전문 기업에서 Java & Spring / AWS 기반의 서버 백엔드 개발자로 근무하고 있으며, 
    대기업 계열사의 사내 업무 시스템 개발 및 유지보수, 업무 자동화(RPA) 솔루션을 구축하였습니다.
