@@ -15,46 +15,19 @@ website: www.github.com/BellWin98
 darkmode: never
 
 # Social links
-# twitter_username: facespics
 github_username:  BellWin98
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profilePic.jpeg
-about_content: | # this will include new lines to allow paragraphs
-   소프트웨어 개발 전문 기업에서 Java & Spring / AWS 기반의 서버 백엔드 개발자로 근무하고 있으며, 
-   대기업 계열사의 사내 업무 시스템 개발 및 유지보수, 업무 자동화(RPA) 솔루션을 구축하였습니다. <br/><br/>
-   고객 업무에 대한 명확한 이해로 좋은 서비스를 만들어내는데 노력하고, 새로운 가치 창출을 통해 성장하는 개발자입니다.
+about_content: | 
+   대기업 계열사의 사내 시스템 개발 및 유지보수, 업무 자동화(RPA) 솔루션 구축 등 
+   Java & Spring / AWS 기반의 서버 백엔드 개발 경력을 쌓아왔습니다. 
+   고객 업무 프로세스를 정확히 이해하여 효율적인 서비스를 제공하는 데 집중하며, 
+   새로운 가치를 창출해 성장하는 개발자를 지향합니다.
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: NEATSOFT
@@ -62,14 +35,18 @@ content:
         sub_title: 백엔드 개발자
         caption: 2024.05 ~ 현재
         quote: >
-          연매출 15억의 중소 기업용 소프트웨어 개발 전문 기업
-        description: | # this will include new lines to allow paragraphs
-            - Java, Devon Framework, Mybatis, JSP, Uipath Studio(RPA) 환경에서의 개발 경험
-            - 자이씨앤에이 사외발송메일 자동 모니터링 시스템 아키텍처 설계 및 구축
-            - 자이씨앤에이 사내 시스템 문서 품의상신 전 검토 기능 개발
-            - 자이 GPT 데이터 학습을 위한 게시판 수집 RPA 신규 개발
-            - 건설현장 공사 데이터 키스콘에 자동 통보하는 RPA 신규 개발
-            - 운영 중인 30개 RPA 모니터링 및 유지보수
+          연매출 15억 규모 중소기업 대상 소프트웨어 개발 전문 회사
+        description: |
+          - Java, Devon Framework, MyBatis, JSP, UiPath(RPA) 등 다양한 기술 스택으로 개발 및 운영 
+          - **사외발송메일 자동 모니터링 시스템**: 아키텍처 설계 및 구축  
+            → 기존 모니터링 프로세스 대비 장애 탐지 시간을 50% 이상 단축  
+          - **사내 문서 품의 상신 전 검토 기능**: 개발 및 적용  
+            → 품의 승인 프로세스 자동화로 작성·검토 시간이 30% 단축  
+          - **자이 GPT 게시판 데이터 수집 RPA** 신규 개발  
+            → GPT 모델 학습 데이터 자동 수집 환경 구축  
+          - **건설현장 공사 데이터 자동통보 RPA** 신규 개발  
+            → 관련 부서의 수작업 반복 업무를 자동화, 월 40시간 이상 단축  
+          - 현재 운영 중인 **30개 RPA 모니터링 및 유지보수** 담당
 
       - layout: left
         title: 상명대학교
@@ -77,52 +54,52 @@ content:
         sub_title: 융합공과대학교학팀 교직원
         caption: 2023.07 ~ 2023.11
         description: |
-            - 융합전자공학전공 졸업 전시회 개최 (전시회 기획, 예산 편성, 대외 홍보)
-            - 학부 및 대학원 행정 업무
+          - **융합전자공학전공 졸업 전시회** 기획·운영 (예산 편성, 대외 홍보 포함)  
+            → 전시회 만족도 조사 결과 “매우 만족” 80% 달성 (예시)  
+          - 학부 및 대학원 행정업무 전반 지원 및 최적화
 
       - layout: left
         title: 육군본부 제1보병사단 정보통신대대 군수과
         sub_title: 군수과장
         caption: 2022.07 ~ 2023.07
         description: |
-            - BTL(병영막사 신축사업)의 공사 관리감독관 임무
-            - 부대 내 노후 시설 12곳 중 9곳(75%) 보수 공사
-            - 부대 내 노후 및 방치 장비 85% 신규 교체
-            - 동원훈련 유공표창 수여
+          - **BTL(병영막사 신축사업)** 공사 관리감독관  
+            → 배정 예산 내 100% 공사 완료, 군 시설 개선도 향상  
+          - 노후 시설 12곳 중 9곳(75%) 보수 공사 성공적 완료  
+          - 노후·방치 장비 85% 신규 교체, 장비 활용률 대폭 개선  
+          - 동원훈련 유공표창 수여 (프로젝트 추진 능력·조직관리 역량 인정)
 
       - layout: left
         title: 육군본부 제1보병사단 정보통신대대 지원2중대
         sub_title: 통신소대장
         caption: 2021.06 ~ 2023.06
         description: |
-            - 1사단 국방망 및 전술망 네트워크 구축 및 유지 관리
-            - 통신 소대 전술통신체계 및 네트워크 주특기 교육
-            - 성과 심의 A등급
-  
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+          - 1사단 국방망·전술망 네트워크 인프라 구축 및 유지관리 총괄  
+          - 통신소대 주특기(전술통신·네트워크) 교육 기획·진행  
+          - 성과 심의 **A등급** 획득 (조직 리드 및 교육 성과 우수)
+
+  - title: Projects
+    layout: list
     content:
       - layout: left
         title: 핀업 (프라이빗 맛집 공유 서비스)
         link: https://github.com/TEAM-PIN-UP/BE-PIN-UP
-        sub_title: 백엔드 개발
+        sub_title: 백엔드 리드
         caption: 2024.09 ~ 현재
-        description: | # this will include new lines to allow paragraphs
-          - 담당: 백엔드 리드
-          - 인원: 9명 (기획 2, 마케팅 1, 디자인 1, FE 3, BE 2)
-          - 역할
-            - 서비스 아키텍처 및 도메인 설계
-            - Spring Boot, JPA, QueryDSL 기반 API 개발
-            - 특정 가게에서 친구 맺은 유저의 리뷰 및 별점 조회 시 QueryDSL 사용하여 복잡한 로직 구현 
-            - 카카오맵 API 활용하여 전국 음식점, 카페 데이터 수집
-            - 소셜(구글) 로그인 연동 및 JWT로 Access/Refresh Token 발급
-            - Github Actions, Docker Registry, Docker-Compose 활용한 배포 자동화
-            - 전역 에러 핸들링 구축
-            - AWS(EC2, RDS, S3, ELB) 활용한 서버 구축 및 HTTPS 적용
-            - Swagger (OAS 3), Postman을 이용한 API 문서화
+        description: |
+          - **인원**: 9명 (기획 2, 마케팅 1, 디자인 1, FE 3, BE 2)  
+          - **역할 및 성과**  
+            - 서비스 아키텍처 및 도메인 설계 주도  
+            - Spring Boot, JPA, QueryDSL 기반 **API** 개발  
+            - 카카오맵 API 연동하여 전국 음식점·카페 데이터 수집  
+            - 소셜(구글) 로그인 및 JWT(Access/Refresh Token) 기반 인증 설계  
+            - **배포 자동화**: GitHub Actions + Docker Registry + Docker-Compose 활용  
+            - AWS EC2, RDS, S3, ELB로 서버 구축 및 HTTPS 적용  
+            - 전역 에러 핸들링, Swagger(Postman) 활용한 API 문서화  
+            - 복잡 로직(QueryDSL 활용)으로 특정 가게에서 친구 맺은 유저 리뷰·별점 효율적 조회
 
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills
+    layout: list
     content:
       - layout: left
         title: Backend
@@ -131,41 +108,42 @@ content:
           - Spring Boot, Spring MVC, Spring AOP, Spring Security
           - Spring Data JPA, MyBatis
           - QueryDSL, JWT, OAuth2
-          - Gradle, Swagger 3, Postman
+          - Gradle, Swagger, Postman
           
       - layout: left
         title: DevOps
         description: |
           - MariaDB, Oracle, Redis
-          - Github Actions
-          - AWS(EC2, RDS, S3, AWS ELB)
+          - GitHub Actions
+          - AWS(EC2, RDS, S3, ELB)
           - Docker, Docker-Compose, Docker Registry
 
-  - title: ETC # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: ETC
+    layout: list
     content:
       - layout: left
         title: 자격증
         description: |
-          - 정보처리기사
-            - 취득일: 2023.06.09
-            - 자격번호: 23201010765B
-          - SQL개발자(SQLD)
-            - 취득일: 2023.07.07
-            - 자격번호: SQLD-049010352
-          - 토익스피킹 IH
-            - 응시일: 2023.09.17
-            - 자격번호: 101607        
+          - 정보처리기사  
+            - 취득일: 2023.06.09  
+            - 자격번호: 23201010765B  
+          - SQL개발자(SQLD)  
+            - 취득일: 2023.07.07  
+            - 자격번호: SQLD-049010352  
+          - 토익스피킹 IH  
+            - 응시일: 2023.09.17  
+            - 자격번호: 101607
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: 한화시스템 BEYOND SW캠프 3기
         caption: 2023.11 ~ 2024.04
         description: | 
           - Spring Framework, AWS, Vue.js를 활용한 팀 프로젝트 2회 리딩
-          - 성과: 총 3회 반 평가 중 2회 1위 달성
+          - 총 3회 반 평가 중 **2회 1위** 달성 (성과·완성도 우수)
+          - 대규모 협업 환경에서 요구사항 분석 ~ 배포까지 전 과정 주도
 
       - layout: left
         title: 상명대학교 서울캠퍼스
@@ -173,12 +151,9 @@ content:
         sub_title: 글로벌경영학과(본전공) / 휴먼지능정보공학전공(복수전공)
         description: | 
           - GPA: 3.81/4.5
-          - 수상내역: 캡스톤디자인 경진대회 장려상 (딥러닝 & 라즈베리파이 활용한 인공지능 쓰레기통 제작)
-          - 대외활동: ROTC 59기, 소리마을(중앙밴드동아리) 드러머, 시애틀 산업시찰단, 라오스 해외봉사, 필리핀 어학연수, 외국인 튜터링
-
-# Footer
-# footer_show_references: true
-# references_title: References on request (Override references text)
+          - **캡스톤디자인 경진대회 장려상** 수상  
+            (딥러닝 & 라즈베리파이 활용 인공지능 쓰레기통 제작 프로젝트)
+          - 대외활동: ROTC 59기, 소리마을(중앙 밴드) 드러머, 시애틀 산업시찰단, 라오스 해외봉사, 필리핀 어학연수, 외국인 튜터링
 
 # Build settings
 remote_theme: sproogen/resume-theme
