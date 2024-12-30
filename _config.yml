@@ -85,6 +85,7 @@ content:
       - layout: left
         title: 핀업 (프라이빗 맛집 공유 서비스)
         link: https://github.com/BellWin98/BE-Pinup
+        link: https://api.kwonyonghyun.p-e.kr/swagger-ui/index.html
         sub_title: 백엔드 리드
         caption: 2024.09 ~ 현재
         description: |
